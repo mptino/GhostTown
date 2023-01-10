@@ -19,4 +19,5 @@ You may use the mouse left click for the menu options.
 
 How to Play
 -----------
-To play the game, clone the repo onto a local directory. Then run the main.py python file. The rest should work!
+* To start the game, clone the repo onto a local directory. Then run the main.py python file. The rest should work!
+* To stop the game, press escape (ESC).
